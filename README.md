@@ -3,7 +3,7 @@
 Project Brief/Requirements:
 
 Build a secure, responsive J2SE DynamoDb/HTTP proxy that proxies communication between
-DynamoDb clients, DynamoDb databases (local or installed on AWS) and the mmamori.io external security system. The proxy should utilise and communicate using the DynamoDb on-the-wire
+DynamoDb clients, DynamoDb databases (local or installed on AWS) and the mamori.io external security system. The proxy should utilise and communicate using the DynamoDb on-the-wire
 client-server network protocol (HTTP/S). You may use the AWS DynamoDb SDK and Netty libraries for handling network communication.
 
 Targets:
